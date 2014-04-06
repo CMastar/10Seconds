@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LevelSave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <levelName>ClickTest</levelName>
+  <levelSize>
+    <x>5</x>
+    <y>1</y>
+    <z>5</z>
+  </levelSize>
+  <tiles>
+    <TileSave>
+      <tileType>ClickTile</tileType>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">nameToTrigger</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">ClickTile</anyType>
+        <anyType xsi:type="xsd:string">Left</anyType>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>Cube</tileType>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>2</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Cube</anyType>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>2</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>ChangerTile</tileType>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>4</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+        <anyType xsi:type="xsd:string">triggerName</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">ChangerTile</anyType>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>4</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Left</anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>Cube</tileType>
+      <position>
+        <x>1</x>
+        <y>0</y>
+        <z>2</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Cube</anyType>
+        <anyType xsi:type="Vector3">
+          <x>1</x>
+          <y>0</y>
+          <z>2</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>Cube</tileType>
+      <position>
+        <x>2</x>
+        <y>0</y>
+        <z>1</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Cube</anyType>
+        <anyType xsi:type="Vector3">
+          <x>2</x>
+          <y>0</y>
+          <z>1</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>Cube</tileType>
+      <position>
+        <x>2</x>
+        <y>0</y>
+        <z>2</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Cube</anyType>
+        <anyType xsi:type="Vector3">
+          <x>2</x>
+          <y>0</y>
+          <z>2</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>Cube</tileType>
+      <position>
+        <x>2</x>
+        <y>0</y>
+        <z>3</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Cube</anyType>
+        <anyType xsi:type="Vector3">
+          <x>2</x>
+          <y>0</y>
+          <z>3</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>Cube</tileType>
+      <position>
+        <x>3</x>
+        <y>0</y>
+        <z>2</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Cube</anyType>
+        <anyType xsi:type="Vector3">
+          <x>3</x>
+          <y>0</y>
+          <z>2</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>ClickTile</tileType>
+      <position>
+        <x>4</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">nameToTrigger</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">ClickTile</anyType>
+        <anyType xsi:type="xsd:string">Right</anyType>
+        <anyType xsi:type="Vector3">
+          <x>4</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>Cube</tileType>
+      <position>
+        <x>4</x>
+        <y>0</y>
+        <z>2</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Cube</anyType>
+        <anyType xsi:type="Vector3">
+          <x>4</x>
+          <y>0</y>
+          <z>2</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>ChangerTile</tileType>
+      <position>
+        <x>4</x>
+        <y>0</y>
+        <z>4</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0.3826835</y>
+        <z>0</z>
+        <w>0.923879564</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>45.0000076</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+        <anyType xsi:type="xsd:string">triggerName</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>45.0000076</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">ChangerTile</anyType>
+        <anyType xsi:type="Vector3">
+          <x>4</x>
+          <y>0</y>
+          <z>4</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Right</anyType>
+      </additionalParametersValues>
+    </TileSave>
+  </tiles>
+  <additionalParametersKeys>
+    <anyType xsi:type="xsd:string">Description</anyType>
+  </additionalParametersKeys>
+  <additionalParametersValues>
+    <anyType xsi:type="xsd:string">ClickTest</anyType>
+  </additionalParametersValues>
+</LevelSave>
