@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 8934b93b98400444da66a295f989f273
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - triggerWatcherPrefab: {fileID: 100000, guid: b2fe2244a45c41244b5a0cee6d97704f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

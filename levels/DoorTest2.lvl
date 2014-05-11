@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LevelSave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <levelName>A Level</levelName>
+  <levelSize>
+    <x>5</x>
+    <y>2</y>
+    <z>5</z>
+  </levelSize>
+  <tiles>
+    <TileSave>
+      <tileType>Cube</tileType>
+      <position>
+        <x>0</x>
+        <y>1</y>
+        <z>3</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Cube</anyType>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>1</y>
+          <z>3</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>Cube</tileType>
+      <position>
+        <x>1</x>
+        <y>1</y>
+        <z>3</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Cube</anyType>
+        <anyType xsi:type="Vector3">
+          <x>1</x>
+          <y>1</y>
+          <z>3</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>CrudeButton</tileType>
+      <position>
+        <x>2</x>
+        <y>0</y>
+        <z>1</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">nameToTrigger</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">CrudeButton</anyType>
+        <anyType xsi:type="xsd:string">Door1</anyType>
+        <anyType xsi:type="Vector3">
+          <x>2</x>
+          <y>0</y>
+          <z>1</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>TestDoor</tileType>
+      <position>
+        <x>2</x>
+        <y>1</y>
+        <z>3</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+        <anyType xsi:type="xsd:string">triggerName</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">TestDoor</anyType>
+        <anyType xsi:type="Vector3">
+          <x>2</x>
+          <y>1</y>
+          <z>3</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Door1</anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>Cube</tileType>
+      <position>
+        <x>3</x>
+        <y>1</y>
+        <z>3</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Cube</anyType>
+        <anyType xsi:type="Vector3">
+          <x>3</x>
+          <y>1</y>
+          <z>3</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>Cube</tileType>
+      <position>
+        <x>4</x>
+        <y>1</y>
+        <z>3</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Cube</anyType>
+        <anyType xsi:type="Vector3">
+          <x>4</x>
+          <y>1</y>
+          <z>3</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+  </tiles>
+  <additionalParametersKeys>
+    <anyType xsi:type="xsd:string">Description</anyType>
+  </additionalParametersKeys>
+  <additionalParametersValues>
+    <anyType xsi:type="xsd:string">This is a level</anyType>
+  </additionalParametersValues>
+</LevelSave>

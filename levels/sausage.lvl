@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LevelSave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <levelName>Sausagetest</levelName>
+  <levelSize>
+    <x>5</x>
+    <y>1</y>
+    <z>5</z>
+  </levelSize>
+  <tiles>
+    <TileSave>
+      <tileType>ItemDetector</tileType>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Target Triggered</anyType>
+        <anyType xsi:type="xsd:string">Item Detected</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">ItemDetector</anyType>
+        <anyType xsi:type="xsd:string">victory</anyType>
+        <anyType xsi:type="xsd:string">Sausage</anyType>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>TestCharSpawn</tileType>
+      <position>
+        <x>0</x>
+        <y>0</y>
+        <z>4</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">CharName</anyType>
+        <anyType xsi:type="xsd:string">Age</anyType>
+        <anyType xsi:type="xsd:string">Likes</anyType>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">PlayableCharacter</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="xsd:string" />
+        <anyType xsi:type="xsd:string" />
+        <anyType xsi:type="xsd:string" />
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">TestCharSpawn</anyType>
+        <anyType xsi:type="xsd:boolean">false</anyType>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>4</z>
+        </anyType>
+      </additionalParametersValues>
+    </TileSave>
+    <TileSave>
+      <tileType>Sausage Spawner</tileType>
+      <position>
+        <x>4</x>
+        <y>0</y>
+        <z>4</z>
+      </position>
+      <rotation>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+        <w>1</w>
+        <eulerAngles>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </eulerAngles>
+      </rotation>
+      <additionalParametersKeys>
+        <anyType xsi:type="xsd:string">Rotation</anyType>
+        <anyType xsi:type="xsd:string">Tile Type</anyType>
+        <anyType xsi:type="xsd:string">Position</anyType>
+        <anyType xsi:type="xsd:string">triggerName</anyType>
+      </additionalParametersKeys>
+      <additionalParametersValues>
+        <anyType xsi:type="Vector3">
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </anyType>
+        <anyType xsi:type="xsd:string">Sausage Spawner</anyType>
+        <anyType xsi:type="Vector3">
+          <x>4</x>
+          <y>0</y>
+          <z>4</z>
+        </anyType>
+        <anyType xsi:type="xsd:string" />
+      </additionalParametersValues>
+    </TileSave>
+  </tiles>
+  <additionalParametersKeys>
+    <anyType xsi:type="xsd:string">ObjectiveDescriptions</anyType>
+    <anyType xsi:type="xsd:string">Description</anyType>
+    <anyType xsi:type="xsd:string">ObjectiveTriggers</anyType>
+  </additionalParametersKeys>
+  <additionalParametersValues>
+    <anyType xsi:type="xsd:string">Get the sausages to the bottom right corner</anyType>
+    <anyType xsi:type="xsd:string">Sausages!</anyType>
+    <anyType xsi:type="xsd:string">victory</anyType>
+  </additionalParametersValues>
+</LevelSave>

@@ -1,0 +1,10 @@
+You have the ability to control a group of characters, one at a time, for a period of 10 seconds.
+The same 10 seconds.
+After running one character through the 10 seconds, you can then select another.
+The objectives for each level are given on the left hand side of the screen.
+Arrows/pad/WASD for movement (minimum movement one tile)
+Fire 1/Ctrl to Interact with a button or similar, or to pick up/put down an item (you cannot use bottons while holding an item)
+Fire 2/Alt to use the held item - eg, to swing an axe or use a fire extinguisher.
+Mouse to select which character to use - selectable characters will be highlighted in green.
+
+Apologies for any lack of clarity. Lack of sleep is begginning to tell.
